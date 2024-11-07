@@ -12,12 +12,10 @@ namespace TLWD1.Task5
 			_directoryWrapper = directoryWrapper ?? throw new ArgumentNullException(nameof(directoryWrapper));
 		}
 
-		// Метод для запроса данных с консоли
 		public void AskForDirectoryAndExtension()
 		{
 			Console.WriteLine("Enter <path> <extension> (e.g. C:\\myfolder .txt)");
 
-			// Чтение ввода от пользователя
 			string input = Console.ReadLine();
 
 			if (string.IsNullOrWhiteSpace(input))
@@ -26,7 +24,6 @@ namespace TLWD1.Task5
 				return;
 			}
 
-			// Разделение строки на путь и расширение
 			var inputParts = input.Split(' ');
 
 			if (inputParts.Length != 2)
@@ -38,7 +35,6 @@ namespace TLWD1.Task5
 			DirectoryPath = inputParts[0];
 			Extension = inputParts[1].StartsWith(".") ? inputParts[1] : $".{inputParts[1]}";
 
-			// Переход к поиску файлов после того как данные получены
 			SearchFilesInDirectory();
 		}
 
@@ -87,6 +83,7 @@ namespace TLWD1.Task5
 				string[] directories = GetSubDirectories(directoryPath);
 				foreach (string directory in directories)
 				{
+					Console.WriteLine(directory);
 					SearchFiles(directory);
 				}
 			}
