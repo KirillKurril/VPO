@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uni\\VPO\\TLWD1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431EA1B3-EBCD-4641-96D4-4102CF9A7FD1}|TLWD1.Task5\\TLWD1.Task5.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task5\\unittest5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431EA1B3-EBCD-4641-96D4-4102CF9A7FD1}|TLWD1.Task5\\TLWD1.Task5.csproj|solutionrelative:tlwd1.task5\\unittest5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431EA1B3-EBCD-4641-96D4-4102CF9A7FD1}|TLWD1.Task5\\TLWD1.Task5.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task5\\filesearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431EA1B3-EBCD-4641-96D4-4102CF9A7FD1}|TLWD1.Task5\\TLWD1.Task5.csproj|solutionrelative:tlwd1.task5\\filesearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C4D4-BF8E-4BED-8137-F98E1E0CD64C}|TLWD1.Task4\\TLWD1.Task4.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task4\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B907C4D4-BF8E-4BED-8137-F98E1E0CD64C}|TLWD1.Task4\\TLWD1.Task4.csproj|solutionrelative:tlwd1.task4\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C4D4-BF8E-4BED-8137-F98E1E0CD64C}|TLWD1.Task4\\TLWD1.Task4.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task4\\gradientprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B907C4D4-BF8E-4BED-8137-F98E1E0CD64C}|TLWD1.Task4\\TLWD1.Task4.csproj|solutionrelative:tlwd1.task4\\gradientprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37B19A7-C5DD-4F57-A04C-A76C2DE8CB08}|TLWD1.Task3\\TLWD1.Task3.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task3\\unittest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37B19A7-C5DD-4F57-A04C-A76C2DE8CB08}|TLWD1.Task3\\TLWD1.Task3.csproj|solutionrelative:tlwd1.task3\\unittest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37B19A7-C5DD-4F57-A04C-A76C2DE8CB08}|TLWD1.Task3\\TLWD1.Task3.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task3\\rectangularservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37B19A7-C5DD-4F57-A04C-A76C2DE8CB08}|TLWD1.Task3\\TLWD1.Task3.csproj|solutionrelative:tlwd1.task3\\rectangularservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0BFE49-5FCC-4DEE-A777-9C8356F2B290}|TLWD1.Task2\\TLWD1.Task2.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task2\\humanresourceanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0BFE49-5FCC-4DEE-A777-9C8356F2B290}|TLWD1.Task2\\TLWD1.Task2.csproj|solutionrelative:tlwd1.task2\\humanresourceanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE2EE61-EBA0-45D5-BB91-98B18655C545}|TLWD1.Task6\\TLWD1.Task6.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task6\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE2EE61-EBA0-45D5-BB91-98B18655C545}|TLWD1.Task6\\TLWD1.Task6.csproj|solutionrelative:tlwd1.task6\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0BFE49-5FCC-4DEE-A777-9C8356F2B290}|TLWD1.Task2\\TLWD1.Task2.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task2\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0BFE49-5FCC-4DEE-A777-9C8356F2B290}|TLWD1.Task2\\TLWD1.Task2.csproj|solutionrelative:tlwd1.task2\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0BFE49-5FCC-4DEE-A777-9C8356F2B290}|TLWD1.Task2\\TLWD1.Task2.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0BFE49-5FCC-4DEE-A777-9C8356F2B290}|TLWD1.Task2\\TLWD1.Task2.csproj|solutionrelative:tlwd1.task2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C730BC-FCB9-4B92-AE72-A8755A354850}|TLWD1.Task1\\TLWD1.Task1.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C730BC-FCB9-4B92-AE72-A8755A354850}|TLWD1.Task1\\TLWD1.Task1.csproj|solutionrelative:tlwd1.task1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C730BC-FCB9-4B92-AE72-A8755A354850}|TLWD1.Task1\\TLWD1.Task1.csproj|d:\\uni\\vpo\\tlwd1\\tlwd1.task1\\helloprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C730BC-FCB9-4B92-AE72-A8755A354850}|TLWD1.Task1\\TLWD1.Task1.csproj|solutionrelative:tlwd1.task1\\helloprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileSearcher.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task5\\FileSearcher.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task5\\FileSearcher.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task5\\FileSearcher.cs",
+              "RelativeToolTip": "TLWD1.Task5\\FileSearcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:12:46.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradientPrinter.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task4\\GradientPrinter.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task4\\GradientPrinter.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task4\\GradientPrinter.cs",
+              "RelativeToolTip": "TLWD1.Task4\\GradientPrinter.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:30:21.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HumanResourceAnalyzer.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task2\\HumanResourceAnalyzer.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task2\\HumanResourceAnalyzer.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task2\\HumanResourceAnalyzer.cs",
+              "RelativeToolTip": "TLWD1.Task2\\HumanResourceAnalyzer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwHMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:42:43.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task2\\Person.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task2\\Person.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task2\\Person.cs",
+              "RelativeToolTip": "TLWD1.Task2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:40:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HelloPrinter.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task1\\HelloPrinter.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task1\\HelloPrinter.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task1\\HelloPrinter.cs",
+              "RelativeToolTip": "TLWD1.Task1\\HelloPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:23:03.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task6\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task6\\UnitTest1.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task6\\UnitTest1.cs",
+              "RelativeToolTip": "TLWD1.Task6\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:58:23.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest5.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task5\\UnitTest5.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task5\\UnitTest5.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task5\\UnitTest5.cs",
+              "RelativeToolTip": "TLWD1.Task5\\UnitTest5.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAnwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:58:12.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest4.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task4\\UnitTest4.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task4\\UnitTest4.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task4\\UnitTest4.cs",
+              "RelativeToolTip": "TLWD1.Task4\\UnitTest4.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA9wEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:57:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RectangularService.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task3\\RectangularService.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task3\\RectangularService.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task3\\RectangularService.cs",
+              "RelativeToolTip": "TLWD1.Task3\\RectangularService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:20:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest3.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task3\\UnitTest3.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task3\\UnitTest3.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task3\\UnitTest3.cs",
+              "RelativeToolTip": "TLWD1.Task3\\UnitTest3.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAIcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:57:44.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest2.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task2\\UnitTest2.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task2\\UnitTest2.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task2\\UnitTest2.cs",
+              "RelativeToolTip": "TLWD1.Task2\\UnitTest2.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwHgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:57:17.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TLWD1.Task1\\UnitTest1.cs",
+              "ToolTip": "D:\\uni\\VPO\\TLWD1\\TLWD1.Task1\\UnitTest1.cs",
+              "RelativeToolTip": "TLWD1.Task1\\UnitTest1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:54:28.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
